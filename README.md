@@ -1,32 +1,33 @@
-<h1 align="center">Hi there, I'm Timofey
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-</h1>
 <div id="header" align="center">
+  
+  <h1 align="center">Hi there, I'm Timofey
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+  </h1>
+  
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRsN3FzbzgwbjBubGZmdHZpdnQ0aW9sZWkzdG16Mng0OGhzbDJpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="150"/>
+
+  <div id="badges">
+    <a href="https://t.me/euronymous_ts">
+      <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+    <a href="https://www.instagram.com/fatal_1703?igsh=cGl2dHhoYmxteGJz&utm_source=qr">
+      <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a href="https://vk.com/fatal999">
+      <img src="https://img.shields.io/badge/VKontakte-blue?logo=vk&logoColor=white" alt="VK Badge"/>
+    </a>
+  </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=your-github-fatal999&style=flat-square&color=blue" alt=""/>
+    
 </div>
-<div id="badges" align="center">
-<a href="https://t.me/euronymous_ts">
-  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
-</a>
-<a href="https://www.instagram.com/fatal_1703">
-  <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white" alt="Instagram Badge"/>
-</a>
-<a href="https://vk.com/fatal999">
-  <img src="https://img.shields.io/badge/VKontakte-blue?logo=vk&logoColor=white" alt="VK Badge"/>
-</a>
-</div>
 
-<!--
-**Fatal999/Fatal999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :woman_technologist: About Me :
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :electron:: I'm working with electronics, but I don't mind to code.
 
-Here are some ideas to get you started:
+- 🏅: Gym man.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :zap: In my free time, I'm lying on the couch.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:fatal3663@gmail.com)
