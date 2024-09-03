@@ -26,11 +26,11 @@
 
 ### :woman_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :electron:: I'm working with electronics, but I don't mind to code.
+- :electron:: I work with electronics but I don't mind to code.
 
 - 🏅: Gym man.
 
-- :zap: In my free time, I'm lying on the couch.
+- :zap: In my free time I relax.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:fatal3663@gmail.com)
 
