@@ -32,6 +32,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time I relax.
 
+- 🥊: Fight with me: [![Linkedin Badge](https://img.shields.io/badge/-codewars-red?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/Fatal999)
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:fatal3663@gmail.com)
 
 ---
