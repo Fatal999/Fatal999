@@ -1,10 +1,10 @@
 <div id="header" align="center">
   
-  <h1 align="center">Welcome to my profile, stranger
+  <h1 align="center" style="font-size: 25px">Welcome to my profile, stranger
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
   </h1>
-  
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRsN3FzbzgwbjBubGZmdHZpdnQ0aW9sZWkzdG16Mng0OGhzbDJpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="150"/>
+
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjd4czA2dTVmMnhid2p4ZHZ2ZGNxeWFpMmxlYTUyM2VhZWplaWxwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="150"/>
 
   <div id="badges">
     <a href="https://t.me/euronymous_ts">
