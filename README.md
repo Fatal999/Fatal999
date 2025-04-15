@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  <h1 align="center">Hi there, I'm Timofey
+  <h1 align="center">Welcome to my profile, stranger
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
   </h1>
   
