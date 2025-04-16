@@ -1,7 +1,7 @@
 <div id="header" align="center">
   
-  # <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR6N2V1N3VoOHlwN3VmOWZqZm5waWdwbTM3d20wNzNpNnppd2ViYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ymwg2hvAKuuuiDN1x3/giphy.gif" width="45"> Welcome to my profile, stranger <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR6N2V1N3VoOHlwN3VmOWZqZm5waWdwbTM3d20wNzNpNnppd2ViYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ymwg2hvAKuuuiDN1x3/giphy.gif" width="45">
-  <img src="bloggif_67ff5f8b8204e.gif" width="150"/>
+  # <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR6N2V1N3VoOHlwN3VmOWZqZm5waWdwbTM3d20wNzNpNnppd2ViYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ymwg2hvAKuuuiDN1x3/giphy.gif" width="45"> Greetings, friend <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR6N2V1N3VoOHlwN3VmOWZqZm5waWdwbTM3d20wNzNpNnppd2ViYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ymwg2hvAKuuuiDN1x3/giphy.gif" width="45">
+  <img src="fatals-gif.gif" width="150"/>
 
   <div id="badges">
     <a href="https://t.me/euronymous_ts">
@@ -22,7 +22,7 @@
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNiZDNza25qdW52MWN3anBsM3BlN3E3ZDY3ZnBqc3VtaHF1OW84YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BLLVLetSfovbdQ7Jif/giphy.gif" width="45"> About Me:
 
-I am a young Frontend Developer from Russia.
+I am a young frontend dev from Russia.
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnowejAwbGxqYmltemd3NXBhZ253Nmh3NGRpM2xtdTNycDg1OGtubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKEoFK2dc1DJutq/giphy.gif" width="25">  A simple guy from the factory.
 
