@@ -20,7 +20,7 @@
 </div>
 
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNiZDNza25qdW52MWN3anBsM3BlN3E3ZDY3ZnBqc3VtaHF1OW84YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BLLVLetSfovbdQ7Jif/giphy.gif" width="45"> About Me:
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNiZDNza25qdW52MWN3anBsM3BlN3E3ZDY3ZnBqc3VtaHF1OW84YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BLLVLetSfovbdQ7Jif/giphy.gif" width="45" height="45"> About Me:
 
 I am a young frontend dev from Russia.
 
