@@ -2,7 +2,7 @@
 
   # ⭐ Welcome to my profile, stranger ⭐
 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjd4czA2dTVmMnhid2p4ZHZ2ZGNxeWFpMmxlYTUyM2VhZWplaWxwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="150"/>
+  <img src="bloggif_67ff5f8b8204e.gif" width="150"/>
 
   <div id="badges">
     <a href="https://t.me/euronymous_ts">
