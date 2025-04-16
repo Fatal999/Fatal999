@@ -22,9 +22,9 @@
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNiZDNza25qdW52MWN3anBsM3BlN3E3ZDY3ZnBqc3VtaHF1OW84YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BLLVLetSfovbdQ7Jif/giphy.gif" width="45" height="45"> About Me:
 
-I am a young frontend dev from Russia.
+I am a young frontend dev from Russia
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnowejAwbGxqYmltemd3NXBhZ253Nmh3NGRpM2xtdTNycDg1OGtubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKEoFK2dc1DJutq/giphy.gif" width="25">  A simple guy from the factory.
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnowejAwbGxqYmltemd3NXBhZ253Nmh3NGRpM2xtdTNycDg1OGtubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKEoFK2dc1DJutq/giphy.gif" width="25">  A simple guy from the factory
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJwbTVtdzloN2EzbDczNGU5djVydHVybjM1cnNkMHcxdWh5djk2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Fa6uUw8jgJHFVS6x1t/giphy.gif" width="30"> Fight with me: [![Linkedin Badge](https://img.shields.io/badge/-codewars-red?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/Fatal999)
 
