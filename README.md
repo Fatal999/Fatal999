@@ -15,8 +15,6 @@
       <img src="https://img.shields.io/badge/VKontakte-blue?logo=vk&logoColor=white" alt="VK Badge"/>
     </a>
   </div>
-  
-  <img src="https://komarev.com/ghpvc/?username=your-github-fatal999&style=flat-square&color=blue" alt="Statistics"/>
     
 </div>
 
